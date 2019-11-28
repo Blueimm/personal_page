@@ -1,2 +1,2 @@
 # personal-page
-https://inakimendez.com
+https://iñakimendez.com
