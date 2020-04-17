@@ -1071,7 +1071,7 @@ a:hover {
 @media (min-width: 767px) {
   .card-blog {
     margin-bottom: 3rem;
-    border-radius: 8px;s
+    border-radius: 8px;
   }
 }
 
@@ -1273,7 +1273,7 @@ a:hover {
   background-color: #000000;
   padding: .2rem .6rem;
   margin-bottom: .5rem;
-  border-radius: 15px;
+
 }
 
 .widget-tags ul li a {
@@ -1285,9 +1285,8 @@ a:hover {
 --------------------------------------------------------------*/
 footer {
   text-align: center;
-  color: #fff;
+
   padding: 25px 0;
-  background: #000000;
 }
 
 footer .copyright {
@@ -1300,4 +1299,5 @@ footer .credits {
 
 footer .credits a {
   color: #fff;
+}
 }
