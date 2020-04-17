@@ -1077,7 +1077,7 @@ a:hover {
 
 .card-blog .card-body {
   position: relative;
-  
+}
 
 .card-blog .card-category-box {
   position: absolute;
@@ -1088,6 +1088,7 @@ a:hover {
   line-height: 25px;
   overflow: hidden;
   
+
 }
 
 .card-blog .card-category {
@@ -1285,9 +1286,11 @@ a:hover {
 --------------------------------------------------------------*/
 footer {
   text-align: center;
-
+  background-color: #000000;
   padding: 25px 0;
+  color: #fff;
 }
+
 
 footer .copyright {
   margin-bottom: .3rem;
@@ -1299,5 +1302,4 @@ footer .credits {
 
 footer .credits a {
   color: #fff;
-}
 }
