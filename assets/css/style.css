@@ -131,6 +131,7 @@ body {
   
   .sect-pt4 {
     padding-top: 4rem;
+    
   }
   
   .sect-mt4 {
@@ -147,6 +148,7 @@ body {
   /*--/ Title A /--*/
   .title-box {
     margin-bottom: 4rem;
+    
   }
   
   .title-a {
@@ -800,6 +802,7 @@ body {
     text-transform: uppercase;
     text-align: center;
     padding: .4rem 0;
+  
   }
   
   .service-box .s-description {
