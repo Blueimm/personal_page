@@ -13,10 +13,6 @@ body {
     color: #4e4e4e;
   }
   
-  img {
-    border-radius: 8px 8px 0 0;
-  }
-  
   h1,
   h2,
   h3,
@@ -199,7 +195,7 @@ body {
     margin-bottom: 3rem;
     z-index: 2;
     box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.06), 0 2px 5px 0 rgba(0, 0, 0, 0.2);
-    border-radius: 8px;
+    border-radius: 1rem;
   }
   
   @media (min-width: 768px) {
@@ -737,14 +733,15 @@ body {
     
   }
   
+  
   .about-mf .about-img {
     margin-bottom: 2rem;
-    
+ 
   }
   
   .about-mf .about-img img {
     margin-left: 10px;
-    
+   
   }
   
   @media (min-width: 767px) {
@@ -847,7 +844,7 @@ body {
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
     background-color: #fff;
-    border-radius: 8px;
+    border-radius: 1rem;
   }
   
   .work-box:hover img {
@@ -858,7 +855,7 @@ body {
   .work-img {
     display: block;
     overflow: hidden;
-    border-radius: 8px;
+    border-radius: 1rem;
   }
   
   .work-img img {
@@ -1074,14 +1071,14 @@ body {
   @media (min-width: 767px) {
     .card-blog {
       margin-bottom: 3rem;
-      border-radius: 8px;
+      border-radius: 1rem;
     }
   }
   
   .card-blog .card-body {
     position: relative;
     background-color: #fff;
-    border-radius: 8px;
+    border-radius: 1rem;
     margin-bottom: 3em;
   }
   
@@ -1093,7 +1090,7 @@ body {
     right: 15px;
     line-height: 25px;
     overflow: hidden;
-    border-radius: 8px;
+    border-radius: 1rem;
   
   }
   
@@ -1103,7 +1100,7 @@ body {
     padding: 0 15px 5px;
     overflow: hidden;
     background-color: #000000;
-    border-radius: 8px;
+    border-radius: 1rem;
   }
   
   .card-blog .card-category .category {
@@ -1113,29 +1110,29 @@ body {
     font-size: .7rem;
     letter-spacing: .1px;
     margin-bottom: 0;
-    border-radius: 8px;
+    border-radius: 1rem;
   }
   
   .card-blog .card-title {
     font-size: 1.3rem;
     margin-top: .6rem;
-    border-radius: 8px;
+    border-radius: 1rem;
   }
   
   .card-blog .card-description {
     color: #4e4e4e;
-    border-radius: 8px;
+    border-radius: 1rem;
   }
   
   .card-blog .post-author {
     display: inline-block;
-    border-radius: 8px;
+    border-radius: 1rem;
   }
   
   .card-blog .post-date {
     color: #4e4e4e;
     display: inline-block;
-    border-radius: 8px;
+    border-radius: 1rem;
   }
   
   
