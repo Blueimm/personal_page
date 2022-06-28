@@ -1,2 +1,2 @@
-# personal-page
+# inakimendez-com
 https://inakimendez.com
