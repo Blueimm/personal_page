@@ -470,17 +470,6 @@ body {
     font-weight: 600;
   }
   
-  .navbar-b.navbar-trans .nav-link:before, .navbar-b.navbar-reduce .nav-link:before {
-    content: '';
-    position: absolute;
-    margin-left: 0px;
-    width: 0%;
-    bottom: 0;
-    left: 0;
-    height: 2px;
-    transition: all 500ms ease;
-  }
-  
   @media (min-width: 768px) {
     .navbar-b.navbar-trans .nav-link:before, .navbar-b.navbar-reduce .nav-link:before {
       margin-left: 18px;
